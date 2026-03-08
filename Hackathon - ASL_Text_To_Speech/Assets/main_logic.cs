@@ -89,7 +89,7 @@ public class TextToASL : MonoBehaviour
 
     void Start()
     {
-        PlaySequence(new string[] { "Alcohol", "Petting_Animal","Typing" });
+        PlaySequence(new string[] { "Bus", "Approximate", "Arrival Time", "Dawn", "Please", "Alert" });
     }
 
 }
